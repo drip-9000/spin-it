@@ -1,0 +1,11 @@
+- generic [ref=f2e7]:
+  - generic [ref=f2e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=f2e10]
+  - generic [ref=f2e11]:
+    - textbox "Enter participant name..." [active] [ref=f2e12]
+    - button "+ Add" [ref=f2e13] [cursor=pointer]
+  - generic [ref=f2e18]:
+    - generic [ref=f2e19]: 1. Alice
+    - button "Remove" [ref=f2e20] [cursor=pointer]
+  - paragraph [ref=f2e21]: Add one more participant to start a game.
+  - button "Add Participants" [disabled] [ref=f2e16]

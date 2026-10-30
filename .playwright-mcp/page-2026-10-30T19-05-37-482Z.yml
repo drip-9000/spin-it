@@ -1,0 +1,8 @@
+- generic [ref=f2e7]:
+  - generic [ref=f2e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=f2e10]
+  - generic [ref=f2e11]:
+    - textbox "Enter participant name..." [active] [ref=f2e12]
+    - button "+ Add" [ref=f2e13] [cursor=pointer]
+  - paragraph [ref=f2e15]: No participants added yet.
+  - button "Add Participants" [disabled] [ref=f2e16]

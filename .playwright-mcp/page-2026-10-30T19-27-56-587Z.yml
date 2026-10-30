@@ -1,0 +1,25 @@
+- generic [ref=e3]:
+  - generic [ref=e195]:
+    - heading "DARE" [level=2] [ref=e196]
+    - paragraph [ref=e197]: ALICE MUST COMPLETE A DARE FROM BOB!
+  - generic [ref=e39]:
+    - generic [ref=e40]:
+      - generic [ref=e41]: "Nobles:"
+      - generic [ref=e42]: 1. Alice
+      - generic [ref=e44]: 2. Bob
+    - generic [ref=e46]:
+      - generic [ref=e47]: "Phase: Symbols Active"
+      - 'button "Room: 224128A0 · Copy" [ref=e48] [cursor=pointer]'
+  - generic [ref=e52]:
+    - generic [ref=e53]: Bob's Turn
+    - generic [ref=e55]:
+      - img [ref=e57]:
+        - generic [ref=e58]: DARE
+        - generic [ref=e83]:
+          - generic [ref=e84]: MAKE
+          - generic [ref=e85]: A RULE
+        - generic [ref=e101]:
+          - generic [ref=e102]: ALL
+          - generic [ref=e103]: INDULGE
+        - generic [ref=e113]: $
+      - button "Spin the wheel" [disabled] [ref=e182]

@@ -1,0 +1,19 @@
+- generic [ref=e7]:
+  - generic [ref=e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=e10]
+  - generic [ref=e11]:
+    - heading "Remote room" [level=2] [ref=e12]
+    - paragraph [ref=e13]: Connecting to room host…
+    - generic [ref=e14]:
+      - button "Create room" [ref=e15] [cursor=pointer]
+      - textbox "Room code" [ref=e16]:
+        - /placeholder: Paste 32-character room code
+        - text: 224128A082C0562FB147B9D84D6537C0
+      - button "Join" [active] [ref=e17] [cursor=pointer]
+    - group [ref=e18]:
+      - generic "How remote rooms work" [ref=e19] [cursor=pointer]
+  - generic [ref=e20]:
+    - textbox "Enter participant name..." [disabled] [ref=e21]
+    - button "+ Add" [disabled] [ref=e22] [cursor=pointer]
+  - paragraph [ref=e24]: Connect to a remote room before adding participants.
+  - button "Connect to a Room" [disabled] [ref=e25]

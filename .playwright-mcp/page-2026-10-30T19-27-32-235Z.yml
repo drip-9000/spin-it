@@ -1,0 +1,20 @@
+- generic [ref=e7]:
+  - generic [ref=e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=e10]
+  - generic [ref=e11]:
+    - heading "Remote room" [level=2] [ref=e12]
+    - paragraph [ref=e13]: Connected to room 224128A082C0562FB147B9D84D6537C0.
+    - generic [ref=e26]:
+      - code [ref=e27]: 224128A082C0562FB147B9D84D6537C0
+      - button "Copy code" [ref=e28] [cursor=pointer]
+  - generic [ref=e20]:
+    - textbox "Enter participant name..." [ref=e21]
+    - button "+ Add" [ref=e22] [cursor=pointer]
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: 1. Alice
+      - button "Remove" [ref=e33] [cursor=pointer]
+    - generic [ref=e35]:
+      - generic [ref=e36]: 2. Bob
+      - button "Remove" [ref=e37] [cursor=pointer]
+  - button "Launch Assemblage (2)" [active] [ref=e38] [cursor=pointer]

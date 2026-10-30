@@ -1,0 +1,14 @@
+- generic [ref=f2e7]:
+  - generic [ref=f2e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=f2e10]
+  - generic [ref=f2e11]:
+    - textbox "Enter participant name..." [active] [ref=f2e12]
+    - button "+ Add" [ref=f2e13] [cursor=pointer]
+  - generic [ref=f2e17]:
+    - generic [ref=f2e18]:
+      - generic [ref=f2e19]: 1. Alice
+      - button "Remove" [ref=f2e20] [cursor=pointer]
+    - generic [ref=f2e22]:
+      - generic [ref=f2e23]: 2. Bob
+      - button "Remove" [ref=f2e24] [cursor=pointer]
+  - button "Launch Assemblage (2)" [ref=f2e25] [cursor=pointer]

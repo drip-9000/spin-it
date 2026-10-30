@@ -1,0 +1,18 @@
+- generic [ref=f10e7]:
+  - generic [ref=f10e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=f10e10]
+  - generic [ref=f10e11]:
+    - heading "Remote room" [level=2] [ref=f10e12]
+    - paragraph [ref=f10e13]: Create a room or join with a room code to play remotely.
+    - generic [ref=f10e14]:
+      - button "Create room" [ref=f10e15] [cursor=pointer]
+      - textbox "Room code" [ref=f10e16]:
+        - /placeholder: Paste 32-character room code
+      - button "Join" [disabled] [ref=f10e17]
+    - group [ref=f10e18]:
+      - generic "One-time Firebase setup" [ref=f10e19] [cursor=pointer]
+  - generic [ref=f10e20]:
+    - textbox "Enter participant name..." [disabled] [ref=f10e21]
+    - button "+ Add" [disabled] [ref=f10e22] [cursor=pointer]
+  - paragraph [ref=f10e24]: Connect to a remote room before adding participants.
+  - button "Connect to a Room" [disabled] [ref=f10e25]

@@ -1,0 +1,29 @@
+- generic [ref=f11e7]:
+  - generic [ref=f11e8]: ⚙️
+  - heading "Steampunk Parliament" [level=1] [ref=f11e10]
+  - generic [ref=f11e11]:
+    - heading "Remote room" [level=2] [ref=f11e12]
+    - paragraph [ref=f11e13]: Create a room or join with a room code to play remotely.
+    - generic [ref=f11e14]:
+      - button "Create room" [ref=f11e15] [cursor=pointer]
+      - textbox "Room code" [ref=f11e16]:
+        - /placeholder: Paste 32-character room code
+      - button "Join" [disabled] [ref=f11e17]
+    - group [ref=f11e18]:
+      - generic "One-time Firebase setup" [active] [ref=f11e19] [cursor=pointer]
+      - list [ref=f11e26]:
+        - listitem [ref=f11e27]: Create a Firebase project, add a web app, and enable Anonymous sign-in.
+        - listitem [ref=f11e28]:
+          - text: Create a Realtime Database and replace the placeholder values in
+          - code [ref=f11e29]: FIREBASE_CONFIG
+          - text: near the top of this file with your web app config.
+        - listitem [ref=f11e30]:
+          - text: "Set Realtime Database rules to require signed-in users:"
+          - code [ref=f11e31]: "{ \"rules\": { \"rooms\": { \"$roomId\": { \".read\": \"auth != null\", \".write\": \"auth != null\" } } } }"
+          - text: .
+        - listitem [ref=f11e32]: Host this page on an HTTPS static host. Create a room and share its code with the players.
+  - generic [ref=f11e20]:
+    - textbox "Enter participant name..." [disabled] [ref=f11e21]
+    - button "+ Add" [disabled] [ref=f11e22] [cursor=pointer]
+  - paragraph [ref=f11e24]: Connect to a remote room before adding participants.
+  - button "Connect to a Room" [disabled] [ref=f11e25]
