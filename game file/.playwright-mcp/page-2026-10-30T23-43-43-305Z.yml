@@ -1,0 +1,17 @@
+- generic [ref=f8e5]:
+  - heading "ROYAL SPINNER" [level=1] [ref=f8e6]
+  - generic [ref=f8e7]:
+    - heading "Remote Room" [level=2] [ref=f8e8]
+    - paragraph [ref=f8e9]: Create a room or join with a room code to play remotely.
+    - generic [ref=f8e10]:
+      - button "Create Room" [ref=f8e11] [cursor=pointer]
+      - textbox "Paste room code" [ref=f8e12]
+      - button "Join" [disabled] [ref=f8e13]
+  - generic [ref=f8e14]:
+    - textbox "Player name..." [disabled] [ref=f8e15]
+    - combobox [disabled] [ref=f8e16]:
+      - option "KING" [selected]
+      - option "QUEEN"
+    - button "+ Add" [disabled] [ref=f8e17] [cursor=pointer]
+  - paragraph [ref=f8e19]: No players added yet.
+  - button "Connect to a Room" [disabled] [ref=f8e20]

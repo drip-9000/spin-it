@@ -1,0 +1,18 @@
+- generic [ref=e5]:
+  - heading "ROYAL SPINNER" [level=1] [ref=e6]
+  - generic [ref=e7]:
+    - heading "Remote Room" [level=2] [ref=e8]
+    - paragraph [ref=e9]: Room 0DE334B56F6D3FE920E530F78772D91F is ready.
+    - generic [ref=e10]:
+      - code [ref=e21]: 0DE334B56F6D3FE920E530F78772D91F
+      - button "Copy Code" [ref=e22] [cursor=pointer]
+  - generic [ref=e14]:
+    - textbox "Player name..." [ref=e15]
+    - combobox [ref=e16]:
+      - option "KING" [selected]
+      - option "QUEEN"
+    - button "+ Add" [active] [ref=e17] [cursor=pointer]
+  - generic [ref=e25]:
+    - generic [ref=e26]: 1. Test One (KING)
+    - button "Remove" [ref=e27] [cursor=pointer]
+  - button "Add Players" [disabled] [ref=e23]

@@ -1,0 +1,21 @@
+- generic [ref=f10e3]:
+  - generic [ref=f10e32]:
+    - generic [ref=f10e33]:
+      - generic [ref=f10e34]: "Nobles:"
+      - generic [ref=f10e35]: 1. Test One (KING)
+      - generic [ref=f10e37]: 2. Test Two (KING)
+    - generic [ref=f10e39]: "Phase: Symbols Active"
+  - generic [ref=f10e44]:
+    - generic [ref=f10e45]: Test One's Turn
+    - generic [ref=f10e47]:
+      - img [ref=f10e49]:
+        - generic [ref=f10e50]: DARE
+        - generic [ref=f10e75]:
+          - generic [ref=f10e76]: MAKE
+          - generic [ref=f10e77]: A RULE
+        - generic [ref=f10e93]:
+          - generic [ref=f10e94]: ALL
+          - generic [ref=f10e95]: INDULGE
+        - generic [ref=f10e105]: $
+      - button "Spin the wheel" [ref=f10e130] [cursor=pointer]:
+        - generic [ref=f10e131]: SPIN

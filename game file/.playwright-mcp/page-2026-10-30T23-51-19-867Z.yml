@@ -1,0 +1,16 @@
+- generic [ref=f11e5]:
+  - heading "ROYAL SPINNER" [level=1] [ref=f11e6]
+  - generic [ref=f11e7]:
+    - heading "Remote Room" [level=2] [ref=f11e8]
+    - paragraph [ref=f11e9]: Room CB1D2B0669D86C67AD7AC179374C3171 is ready.
+    - generic [ref=f11e10]:
+      - code [ref=f11e21]: CB1D2B0669D86C67AD7AC179374C3171
+      - button "Copy Code" [ref=f11e22] [cursor=pointer]
+  - generic [ref=f11e14]:
+    - textbox "Player name..." [ref=f11e15]
+    - combobox [ref=f11e16]:
+      - option "KING" [selected]
+      - option "QUEEN"
+    - button "+ Add" [ref=f11e17] [cursor=pointer]
+  - paragraph [ref=f11e19]: No players added yet.
+  - button "Add Players" [disabled] [ref=f11e23]
