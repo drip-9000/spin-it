@@ -286,3 +286,741 @@
 [20220824ms] [ERROR] %c  ERR color: #f33 [Extension Host] (node:505) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities. @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
 [20220825ms] [ERROR] %c[Extension Host] %c(node:505) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities. color: blue color:  @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:703
 [20223250ms] [WARNING] %c[Extension Host] %coctokit.rest.search.issuesAndPullRequests() is deprecated, see https://docs.github.com/rest/search/search#search-issues-and-pull-requests color: blue color:  @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:703
+[22025371ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 undefined @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22025483ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 undefined @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22026309ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22026315ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22027946ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22027947ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22027960ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22027961ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22029293ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22029293ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032367ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032368ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032954ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032954ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032957ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22032957ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22037948ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22037949ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22037963ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22037964ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22042953ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22042954ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22042968ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22042970ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047934ms] [LOG] %c INFO color: #33f [remote-connection][Management   ][e43e3…][reconnect] received socket timeout event (reason: keepAlive, unacknowledgedMsgCount: 2, timeSinceOldestUnacknowledgedMsg: 18638, timeSinceLastReceivedSomeData: 23643). @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047935ms] [LOG] %c INFO color: #33f [remote-connection][Management   ][e43e3…][reconnect] starting reconnecting loop. You can get more information with the trace log level. @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047943ms] [LOG] %c INFO color: #33f [remote-connection][Management   ][e43e3…][reconnect] starting reconnection with grace time: 10800000ms (10800s) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047944ms] [LOG] %c INFO color: #33f [remote-connection][Management   ][e43e3…][reconnect] resolving connection... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047946ms] [LOG] %c INFO color: #33f [remote-connection][Management   ][e43e3…][reconnect] connecting to WebSocket(codespaces+dark-wand-x5464xw7pjrqhvxr4:443)... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047947ms] [LOG] %c INFO color: #33f Creating a socket (renderer-Management-e43e3998-f790-4734-a20e-636a6375c393)... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047950ms] [INFO] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #3, url: wss://codespaces+dark-wand-x5464xw7pjrqhvxr4:443/stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf?reconnectionToken=e43e3998-f790-4734-a20e-636a6375c393&reconnection=true&skipWebSocketFrames=false @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047975ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047976ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047981ms] [LOG] %c INFO color: #33f [remote-connection][ExtensionHost][c1615…][reconnect] received socket timeout event (reason: keepAlive, unacknowledgedMsgCount: 0, timeSinceOldestUnacknowledgedMsg: undefined, timeSinceLastReceivedSomeData: 22605). @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047981ms] [LOG] %c INFO color: #33f [remote-connection][ExtensionHost][c1615…][reconnect] starting reconnecting loop. You can get more information with the trace log level. @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047982ms] [LOG] %c INFO color: #33f [remote-connection][ExtensionHost][c1615…][reconnect] starting reconnection with grace time: 10800000ms (10800s) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047983ms] [LOG] %c INFO color: #33f [remote-connection][ExtensionHost][c1615…][reconnect] resolving connection... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047983ms] [LOG] %c INFO color: #33f [remote-connection][ExtensionHost][c1615…][reconnect] connecting to WebSocket(codespaces+dark-wand-x5464xw7pjrqhvxr4:443)... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047984ms] [LOG] %c INFO color: #33f Creating a socket (renderer-ExtensionHost-c1615e09-0600-4eac-a11a-bebceea63e79)... @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22047984ms] [INFO] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #4, url: wss://codespaces+dark-wand-x5464xw7pjrqhvxr4:443/stable-2c33b50b16c472efe58357d1d2a8a5414bc23fbf?reconnectionToken=c1615e09-0600-4eac-a11a-bebceea63e79&reconnection=true&skipWebSocketFrames=false @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047986ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22047987ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048098ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048098ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048650ms] [INFO] vscs:web-client:882c:codespace-state-watcher codespace state -> ShuttingDown @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048652ms] [INFO] vscs:web-client:882c:codespaces-component onCodespaceStateChange:  [null, ShuttingDown, Available] @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048665ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:splash-screen shutting down after available state, lock auto start @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048684ms] [LOG] %c INFO color: #33f [lifecycle] shutdown triggered @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22048740ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-3 failed to create websocket:  a: The codespace is not in an available state.
+    at h.<anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:31526)
+    at Generator.next (<anonymous>)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:27439) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048742ms] [ERROR] vscs:web-client:882c:workbench-telemetry:telemetry-service ["action_stop",{"Action":"InitializeWebSocket","RootActivityId":"8232e20344194c8235c6afb32030de7a","connectionNumber":2,"errorCode":-1,"errorType":"OutdatedCodespaceStateError","errorMessage":"The codespace is not in an available state.","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: The codespace is not in an available state.\n    at h.<anonymous> [PATH]/1102.8236e96d0a067e1f5644.js:1:31526)\n    at Generator.next (<anonymous>)\n    at s [PATH]/1102.8236e96d0a067e1f5644.js:1:27439)","Result":"Failure"}] @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048745ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-4 failed to create websocket:  a: The codespace is not in an available state.
+    at h.<anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:31526)
+    at Generator.next (<anonymous>)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:27439) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048745ms] [ERROR] vscs:web-client:882c:workbench-telemetry:telemetry-service ["action_stop",{"Action":"InitializeWebSocket","RootActivityId":"d87b213ec3ab94f1fa2b553000668205","connectionNumber":3,"errorCode":-1,"errorType":"OutdatedCodespaceStateError","errorMessage":"The codespace is not in an available state.","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: The codespace is not in an available state.\n    at h.<anonymous> [PATH]/1102.8236e96d0a067e1f5644.js:1:31526)\n    at Generator.next (<anonymous>)\n    at s [PATH]/1102.8236e96d0a067e1f5644.js:1:27439)","Result":"Failure"}] @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048748ms] [INFO] vscs:web-client:882c:codespaces-component:workbench-page initialize service worker Dev Tunnel connection @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048932ms] Uncaught (in promise) Error: Progress can't move backwards
+    at update (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:272446)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:247739)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:242939)
+    at c (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:242687)
+    at r (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:247423)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:248570)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:242939)
+    at c (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:242687)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:248506)
+    at _deliver (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:29:3668)
+    at _deliverQueue (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:29:3757)
+    at fire (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:29:4092)
+    at setCodespaceState (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:157433)
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:158939)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:155254)
+[22048933ms] Uncaught (in promise) Error: The codespace is not in an available state.
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:31525)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:27438)
+[22048934ms] Uncaught (in promise) Error: The codespace is not in an available state.
+    at <anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:31525)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:0:27438)
+[22048845ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048845ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048847ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048847ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8108 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22048859ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.disconnectRemote) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22048861ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: workbench.contrib.editorChatUsage) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22048869ms] [ERROR] %c  ERR color: #f33 InvalidStateError: Failed to execute 'abort' on 'IDBTransaction': The transaction has finished.
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:1969
+    at Array.forEach (<anonymous>)
+    at s.close (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:1956)
+    at S1i._fn (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5716:8050)
+    at S1i.dispose (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:28:1319)
+    at pt (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:28:747)
+    at s.clear (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:28:1634)
+    at iHe.value (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5716:4692)
+    at M._deliver (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3669)
+    at M.fire (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3988)
+    at iHe.value (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:104494)
+    at M._deliver (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3669)
+    at M._deliverQueue (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3758)
+    at M.fire (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:4093)
+    at eqt.onUnload (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23955)
+    at eqt.doShutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23761)
+    at eqt.shutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23311) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22048920ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatSessionStore) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22048922ms] [ERROR] %c  ERR color: #f33 [lifecycle] Long running operations during shutdown are unsupported in the web (id: join.chatEditingSession) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049053ms] [WARNING] %c WARN color: #993 No harness descriptor found for session type agent-host-copilotcli @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049063ms] [LOG] %c INFO color: #33f [ChatModelSelection] event=restore-remembered-model surface="workbench" sessionKey="agent-host-copilotcli" conversationKey="agent-host-copilotcli:/untitled-54262128-7e67-4d8d-9c96-9ed8fee3c99d" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view" model="copilot/auto" remembered="copilot/auto" reason="sessionRestore" @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049264ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at Jkt.flush (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:7183)
+    at gsi.sendDisconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:12973)
+    at _Ko.end (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:118089)
+    at kut.endConnection (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:115866)
+    at _remoteAgentService.getConnection.R.join.id (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13195)
+    at Object.join (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:24031)
+    at iHe.value (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13145)
+    at M._deliver (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3669)
+    at M._deliverQueue (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3758)
+    at M.fire (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:4093)
+    at eqt.onUnload (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23955)
+    at eqt.doShutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23761)
+    at eqt.shutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23311) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049264ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at Jkt.flush (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:7183)
+    at gsi.sendDisconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:12973)
+    at _Ko.end (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:118089)
+    at kut.endConnection (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:115866)
+    at _remoteAgentService.getConnection.R.join.id (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13195)
+    at Object.join (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:24031)
+    at iHe.value (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13145)
+    at M._deliver (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3669)
+    at M._deliverQueue (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:3758)
+    at M.fire (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:30:4093)
+    at eqt.onUnload (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23955)
+    at eqt.doShutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23761)
+    at eqt.shutdown (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5751:23311) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049277ms] [LOG] %c INFO color: #33f [RemoteAgentHostProtocol] Transport lost for vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4; scheduling reconnect. @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049279ms] [LOG] %c INFO color: #33f [RemoteAgentHostProtocol] Reconnecting to vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4 in 1000ms (attempt 1). @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049279ms] [WARNING] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 stream error, closing i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at Jkt.flush (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:7183)
+    at gsi.sendDisconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:12973)
+    at cpt.disconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5732:6326)
+    at y5.disconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5717:41843)
+    at uqo.stopAllInReverse (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5724:9682)
+    at HKt._doStopExtensionHosts (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:23015)
+    at _remoteAgentService.getConnection.R.join.id (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13222) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049280ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at h.send (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29071)
+    at HKo.write (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29481)
+    at Jkt._writeNow (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:8294)
+    at Jkt.flush (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:7183)
+    at gsi.sendDisconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:12973)
+    at cpt.disconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5732:6326)
+    at y5.disconnect (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5717:41843)
+    at uqo.stopAllInReverse (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5724:9682)
+    at HKt._doStopExtensionHosts (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:23015)
+    at _remoteAgentService.getConnection.R.join.id (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13222) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049395ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 i: f disposed.
+    at f.sendCommon (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2464)
+    at f.send (https://assets.github.dev/static/commons--sshChannel.js.c294ec1730a505ddb4fa.js:1:2334)
+    at a.write [as _write] (https://assets.github.dev/static/1135.acee4d1bdc68eea107ba.js:1:228126)
+    at M (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:2584)
+    at https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5675
+    at q.write (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:5702)
+    at q.end (https://assets.github.dev/static/commons-bootstrap-_stream_writable.js.20758c00ab662fff4e1c.js:1:6723)
+    at h.<anonymous> (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29559)
+    at Generator.next (<anonymous>)
+    at https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:27635
+    at new Promise (<anonymous>)
+    at s (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:27383)
+    at h.close (https://assets.github.dev/static/1102.8236e96d0a067e1f5644.js:1:29178)
+    at HKo.end (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5715:29514)
+    at cpt.dispose (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5732:6507)
+    at y5.dispose (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5717:41877)
+    at pqo.dispose (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5724:10557)
+    at uqo.stopAllInReverse (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5724:9697)
+    at async HKt._doStopExtensionHosts (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:22981)
+    at async _remoteAgentService.getConnection.R.join.id (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5723:13211) @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049398ms] [WARNING] %c WARN color: #993 [AgentHostProvisional] Failed to dispose provisional generation ahp-session:/11031a9d-e9b4-4e48-948f-49f9342062b8: Transport lost (reconnecting): vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4 @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049401ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/Royal-Spinner/index.html' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async kKt.doRead (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5716:32319)
+    at async kKt.readStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5716:32082)
+    at async bK.resolveFromFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:1891:18852)
+    at async bK.resolve (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:1891:14806)
+    at async https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5716:27171 @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049402ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049402ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049403ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049403ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049418ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049418ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049419ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049419ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049424ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049424ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049425ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049426ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049427ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049427ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049427ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049427ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049428ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049429ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049429ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049429ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049430ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/settings.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049431ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/tasks.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049431ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/launch.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049431ms] [ERROR] %c  ERR color: #f33 aa: Unable to read file 'vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4/workspaces/.vscode/mcp.json' (Canceled: Canceled)
+    at wIe.restoreReadError (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130832)
+    at wIe.doReadFileStream (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:130615)
+    at async wIe.doReadFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129860)
+    at async Object.factory (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:129740) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049476ms] [ERROR] vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscs:web-client:882c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 undefined @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22049580ms] [ERROR] %c  ERR color: #f33 Failed to resolve files at location: vscode-remote://codespaces%2Bdark-wand-x5464xw7pjrqhvxr4/workspaces/.github/agents Canceled: Canceled
+    at Object.call (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:781:1741)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:2718
+    at async wIe.doResolveFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125706)
+    at async wIe.resolve (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125421)
+    at async qKe.resolveFilesAtLocation (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:27713)
+    at async qKe.listFilesWithSource (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:21133)
+    at async Promise.all (index 1)
+    at async vqe.computeListPromptFiles (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:111902)
+    at async vqe.computeAgentDiscoveryInfo (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:118808) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049581ms] [ERROR] %c  ERR color: #f33 Failed to resolve files at location: vscode-remote://codespaces%2Bdark-wand-x5464xw7pjrqhvxr4/home/codespace/.copilot/agents Canceled: Canceled
+    at Object.call (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:781:1741)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:2718
+    at async wIe.doResolveFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125706)
+    at async wIe.resolve (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125421)
+    at async qKe.resolveFilesAtLocation (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:27713)
+    at async qKe.listFilesWithSource (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:21133)
+    at async Promise.all (index 0)
+    at async vqe.computeListPromptFiles (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:111902)
+    at async vqe.computeAgentDiscoveryInfo (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:118808) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049581ms] [ERROR] %c  ERR color: #f33 Failed to resolve files at location: vscode-remote://codespaces%2Bdark-wand-x5464xw7pjrqhvxr4/workspaces/.claude/agents Canceled: Canceled
+    at Object.call (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:781:1741)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:2718
+    at async wIe.doResolveFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125706)
+    at async wIe.resolve (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125421)
+    at async qKe.resolveFilesAtLocation (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:27713)
+    at async qKe.listFilesWithSource (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:21133)
+    at async Promise.all (index 1)
+    at async vqe.computeListPromptFiles (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:111902)
+    at async vqe.computeAgentDiscoveryInfo (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:118808) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049581ms] [ERROR] %c  ERR color: #f33 Failed to resolve files at location: vscode-remote://codespaces%2Bdark-wand-x5464xw7pjrqhvxr4/home/codespace/.claude/agents Canceled: Canceled
+    at Object.call (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:781:1741)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:782:2718
+    at async wIe.doResolveFile (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125706)
+    at async wIe.resolve (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:5712:125421)
+    at async qKe.resolveFilesAtLocation (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:27713)
+    at async qKe.listFilesWithSource (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:649:21133)
+    at async Promise.all (index 0)
+    at async vqe.computeListPromptFiles (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:111902)
+    at async vqe.computeAgentDiscoveryInfo (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:685:118808) @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22049595ms] [ERROR] %c  ERR color: #f33 Error: Throttler is disposed
+    at Yu.queue (https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:31:74206)
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:31:76899
+    at https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:31:76358 @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22050283ms] [WARNING] %c WARN color: #993 [RemoteAgentHostProtocol] Reconnect attempt failed for vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4: Canceled @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22050283ms] [LOG] %c INFO color: #33f [RemoteAgentHostProtocol] Transport lost for vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4 mid-reconnect; aborting the current attempt. @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22050284ms] [LOG] %c INFO color: #33f [RemoteAgentHostProtocol] Reconnecting to vscode-remote://codespaces+dark-wand-x5464xw7pjrqhvxr4 in 2000ms (attempt 2). @ https://assets.github.dev/stable/2c33b50b16c472efe58357d1d2a8a5414bc23fbf/out/vs/workbench/workbench.web.main.internal.js:38
+[22055305ms] [INFO] vscs:web-client:f3e5 init 👋 @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22055307ms] [INFO] vscs:web-client:f3e5:workbench-telemetry:telemetry-service initialize {
+  "browserId": "3d80d56d3438af808c1531bd44a931b2",
+  "sessionId": "8b77771a-b3bc-49f0-b2d9-8d7e15247d23",
+  "pageLoadId": "7f0aadda57360c548e14e662b163c102",
+  "host": "github.dev",
+  "browserName": "chrome",
+  "browserVersion": "156.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.03538.974-72985115",
+  "stableVSCodeCommitId": "2c33b50b16c472efe58357d1d2a8a5414bc23fbf",
+  "insiderVSCodeCommitId": "caeec36b81bb8046f680cfe00d4a6d699b22cd9d",
+  "serviceLocation": "WestUs2",
+  "serviceInstance": "prod-rel-WestUs2",
+  "environment": "Production",
+  "serverCorrelationId": "317e4bdb-debd-489e-8eee-e6596a219315",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+} @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22055445ms] [INFO] vscs:web-client:f3e5:codespaces-component:workbench-page initialize service worker Dev Tunnel connection @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22056059ms] [INFO] vscs:web-client:f3e5:codespace-state-watcher codespace state -> ShuttingDown @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22058796ms] [INFO] vscs:web-client:f3e5:codespace-state-watcher codespace state -> ShuttingDown @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22061479ms] [INFO] vscs:web-client:f3e5:codespace-state-watcher codespace state -> Shutdown @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22061481ms] [INFO] vscs:web-client:f3e5:codespaces-component onCodespaceStateChange:  [null, Shutdown, ShuttingDown] @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
+[22061495ms] [INFO] vscs:web-client:f3e5:codespaces-component:workbench-page initialize service worker Dev Tunnel connection @ https://assets.github.dev/static/4410.7a5a5d43e403ca30732e.js:0
